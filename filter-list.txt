@@ -1,0 +1,5 @@
+! Title: Moodle OST dashboard block
+! Description: Blocks https://moodle.ost.ch/ and https://moodle.ost.ch/my/
+|https://moodle.ost.ch/|$document
+|https://moodle.ost.ch/my/|$document
+||moodle.ost.ch^
