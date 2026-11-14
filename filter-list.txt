@@ -1,4 +1,4 @@
 ! Title: Moodle OST dashboard block
 ! Description: Blocks https://moodle.ost.ch/ and https://moodle.ost.ch/my/
 ||moodle.ost.ch/local/ost/pix/OST_Logo_gross.jpg$image
-moodle.ost.ch##button.btn-primary[accesskey="s"]:style(background-color: #6c757d !important; border-color: #6c757d !important)
+moodle.ost.ch##button.btn-primary[accesskey="s"]
